@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="Screens2.png" type="bitmap" width="1606" height="1448" pixelformat="RGBA_8888" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://www.codeandweb.com/texturepacker -->
+    <!-- $TexturePacker:SmartUpdate:19527ca4d4111e06748e4b2ecb119921:12ffc6582d1984128c2e6027934e6c61:3961f720d74bc6bffe32550ec674972a$ -->
+    <textureregion id="0" src="help1.png" x="2" y="2" width="800" height="480" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="800" srcheight="480"/>
+    <textureregion id="1" src="help3.png" x="804" y="2" width="800" height="480" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="800" srcheight="480"/>
+    <textureregion id="2" src="help4.png" x="2" y="484" width="800" height="480" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="800" srcheight="480"/>
+    <textureregion id="3" src="help5.png" x="804" y="484" width="800" height="480" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="800" srcheight="480"/>
+    <textureregion id="4" src="loading1.png" x="2" y="966" width="800" height="480" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="800" srcheight="480"/>
+</texture>

@@ -1,0 +1,63 @@
+personajes
+
+zombie normal		------> vampiro normal
+zombie diagonal		------>	vampiro normal	
+zombie que acelera	------>	vampiresa			
+perro zombie		------>	arana o murcielago
+zombie subterraneo	------>	vampiro transparentoso
+zombie transportador	------>	vampiro normal
+zombie inflable		------>	vampiro doble toque / armadura
+
+a proteger:
+
+hombre, mujer, ninio, abuela 
+
+comportamientos:
+
+- normal, diagonal, adelante y atras, transporta horizontalmente
+
+- invisible, acelera
+
+PERSONAJE PRINCIPAL
+
+seleccionar a un personaje (este personaje se ve en la parte inferior de la pantall
+y cada vez que va perdiendo vidas se va deteriorando).
+
+- basicos un hombre y una mujer
+- premium personajes famosos
+ 
+
+PODERES
+
+- lanzar cadaver  (atrae vampiros a comerse al cadaver )
+- cerca que los paraliza
+- prender fuego en el camino ( crea una linea de fuego que mata a todos los vampiros quemandolos)
+- poderes especiales muy costoso con monedas, comprable
+	[ Lluvia de estacas (mata estacados a todos los vampiros por 2 segundos) unlimited, recargable cada cierto tiempo]
+   
+------------------------------------------------------------------------------------------
+- proveer ofertas entre niveles (con limite de tiempo incitando a comprar mostrando precio viejo y precio nuevo) 
+
+- si pierde muy seguido ofrecer comprar poderes en la tienda
+- si se queda sin monedas ofrecer comprar mas en la tienda  
+
+- de vez en cuando mostrar ofertas unicas con el boton de comprar
+- dar monedas por puntuar el juego
+- ofrecer monedas gratis por ver un video
+
+
+- dar regalo cada 8 horas aprox en monedas,
+- dar regalo por visitar la tienda en monedas
+
+*contenido desbloqueable ()
+
+-trofeos 
+- combos
+
+
+
+
+
+
+
+

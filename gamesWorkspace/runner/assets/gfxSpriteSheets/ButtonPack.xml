@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="ButtonPack.png" type="bitmap" width="1764" height="897" pixelformat="RGBA_8888" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://www.codeandweb.com/texturepacker -->
+    <!-- $TexturePacker:SmartUpdate:550044d081fc2bd029d5d29d9a26d3d4:10f611616082d74253c6813b66c2fdaf:61ce5607c22147a36071d01bc906d73e$ -->
+    <textureregion id="0" src="accelerateIcon.png" x="308" y="120" width="100" height="100" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="100" srcheight="100"/>
+    <textureregion id="1" src="adn1.png" x="841" y="282" width="200" height="200" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="200" srcheight="200"/>
+    <textureregion id="2" src="adn2.png" x="1332" y="120" width="150" height="150" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="150" srcheight="150"/>
+    <textureregion id="3" src="adnB.png" x="38" y="2" width="18" height="17" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="18" srcheight="17"/>
+    <textureregion id="4" src="adnG.png" x="18" y="2" width="18" height="17" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="18" srcheight="17"/>
+    <textureregion id="5" src="adnM1.png" x="261" y="2" width="58" height="47" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="58" srcheight="47"/>
+    <textureregion id="6" src="adnM2.png" x="201" y="2" width="58" height="47" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="58" srcheight="47"/>
+    <textureregion id="7" src="adnM3.png" x="321" y="2" width="58" height="48" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="58" srcheight="48"/>
+    <textureregion id="8" src="adnR.png" x="58" y="2" width="18" height="17" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="18" srcheight="17"/>
+    <textureregion id="9" src="arrowDown.png" x="534" y="2" width="80" height="77" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="80" srcheight="77"/>
+    <textureregion id="10" src="arrowLeft.png" x="455" y="2" width="77" height="80" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="77" srcheight="80"/>
+    <textureregion id="11" src="arrowRight.png" x="698" y="2" width="77" height="80" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="77" srcheight="80"/>
+    <textureregion id="12" src="arrowUp.png" x="616" y="2" width="80" height="77" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="80" srcheight="77"/>
+    <textureregion id="13" src="black.jpg" x="263" y="484" width="225" height="225" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="225" srcheight="225"/>
+    <textureregion id="14" src="blog.png" x="512" y="120" width="100" height="100" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="100" srcheight="100"/>
+    <textureregion id="15" src="blueBackground.jpg" x="1484" y="120" width="160" height="160" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="160" srcheight="160"/>
+    <textureregion id="16" src="buttonA.png" x="777" y="2" width="80" height="80" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="80" srcheight="80"/>
+    <textureregion id="17" src="buttonB.png" x="859" y="2" width="80" height="80" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="80" srcheight="80"/>
+    <textureregion id="18" src="buttonPlay.png" x="614" y="120" width="100" height="100" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="100" srcheight="100"/>
+    <textureregion id="19" src="buttonPlay2.png" x="410" y="120" width="100" height="100" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="100" srcheight="100"/>
+    <textureregion id="20" src="buttonTexture.png" x="792" y="484" width="523" height="300" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="523" srcheight="300"/>
+    <textureregion id="21" src="closeHud.png" x="639" y="282" width="200" height="200" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="200" srcheight="200"/>
+    <textureregion id="22" src="emptyStar.png" x="1192" y="120" width="138" height="132" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="138" srcheight="132"/>
+    <textureregion id="23" src="eye.png" x="2" y="2" width="14" height="16" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="14" srcheight="16"/>
+    <textureregion id="24" src="fb.png" x="716" y="120" width="100" height="100" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="100" srcheight="100"/>
+    <textureregion id="25" src="fillStar.png" x="1062" y="120" width="128" height="128" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="128" srcheight="128"/>
+    <textureregion id="26" src="gray.jpg" x="2" y="484" width="259" height="194" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="259" srcheight="194"/>
+    <textureregion id="27" src="help.png" x="78" y="2" width="31" height="52" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="31" srcheight="52"/>
+    <textureregion id="28" src="iceIcon.png" x="1103" y="2" width="100" height="100" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="100" srcheight="100"/>
+    <textureregion id="29" src="igrm.png" x="1307" y="2" width="100" height="100" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="100" srcheight="100"/>
+    <textureregion id="30" src="joystickBall.png" x="818" y="120" width="100" height="105" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="100" srcheight="105"/>
+    <textureregion id="31" src="joystickLimit.png" x="490" y="484" width="300" height="300" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="300" srcheight="300"/>
+    <textureregion id="32" src="mainWindow.png" x="2" y="282" width="215" height="155" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="215" srcheight="155"/>
+    <textureregion id="33" src="money.png" x="437" y="282" width="200" height="200" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="200" srcheight="200"/>
+    <textureregion id="34" src="moreMoney.png" x="111" y="2" width="36" height="64" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="36" srcheight="64"/>
+    <textureregion id="35" src="offBegin.png" x="1613" y="2" width="100" height="100" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="100" srcheight="100"/>
+    <textureregion id="36" src="onBegin.png" x="104" y="120" width="100" height="100" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="100" srcheight="100"/>
+    <textureregion id="37" src="pause.png" x="1409" y="2" width="100" height="100" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="100" srcheight="100"/>
+    <textureregion id="38" src="powerBar.png" x="1445" y="282" width="317" height="129" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="317" srcheight="129"/>
+    <textureregion id="39" src="powerIceCircle.png" x="149" y="2" width="50" height="50" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="50" srcheight="50"/>
+    <textureregion id="40" src="rate.png" x="920" y="120" width="140" height="87" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="140" srcheight="87"/>
+    <textureregion id="41" src="redLine.png" x="1043" y="282" width="400" height="100" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="400" srcheight="100"/>
+    <textureregion id="42" src="reloadBar.png" x="941" y="2" width="58" height="116" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="58" srcheight="116"/>
+    <textureregion id="43" src="retry.png" x="2" y="120" width="100" height="100" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="100" srcheight="100"/>
+    <textureregion id="44" src="selectLevel.png" x="1511" y="2" width="100" height="100" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="100" srcheight="100"/>
+    <textureregion id="45" src="shotIcon.png" x="206" y="120" width="100" height="100" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="100" srcheight="100"/>
+    <textureregion id="46" src="sideWindow.png" x="219" y="282" width="216" height="155" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="216" srcheight="155"/>
+    <textureregion id="47" src="soundOff.png" x="1613" y="2" width="100" height="100" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="100" srcheight="100"/>
+    <textureregion id="48" src="soundOn.png" x="1205" y="2" width="100" height="100" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="100" srcheight="100"/>
+    <textureregion id="49" src="spot.png" x="1317" y="484" width="422" height="411" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="422" srcheight="411"/>
+    <textureregion id="50" src="twttr.png" x="1001" y="2" width="100" height="100" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="100" srcheight="100"/>
+    <textureregion id="51" src="video.png" x="381" y="2" width="72" height="77" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="72" srcheight="77"/>
+</texture>

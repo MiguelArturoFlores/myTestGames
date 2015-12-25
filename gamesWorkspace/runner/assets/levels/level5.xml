@@ -1,0 +1,2204 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Objects>
+
+    <Object
+        id="26"
+        name="wallCover"
+        angle="0"
+        parameters=""
+        x="-2.0"
+        y="-1.0" />
+
+    <Object
+        id="45"
+        name="techoBASE"
+        angle="0"
+        parameters=""
+        x="-3.0"
+        y="-181.0" />
+
+    <Object
+        id="45"
+        name="techoBASE"
+        angle="0"
+        parameters=""
+        x="-16.0"
+        y="402.0" />
+
+    <Object
+        id="45"
+        name="techoBASE"
+        angle="0"
+        parameters=""
+        x="796.0"
+        y="-181.0" />
+
+    <Object
+        id="45"
+        name="techoBASE"
+        angle="270"
+        parameters=""
+        x="1152.0"
+        y="58.0" />
+
+    <Object
+        id="45"
+        name="techoBASE"
+        angle="270"
+        parameters=""
+        x="533.0"
+        y="644.0" />
+
+    <Object
+        id="45"
+        name="techoBASE"
+        angle="270"
+        parameters=""
+        x="1152.0"
+        y="857.0" />
+
+    <Object
+        id="45"
+        name="techoBASE"
+        angle="270"
+        parameters=""
+        x="532.0"
+        y="1443.0" />
+
+    <Object
+        id="45"
+        name="techoBASE"
+        angle="360"
+        parameters=""
+        x="771.0"
+        y="1924.0" />
+
+    <Object
+        id="45"
+        name="techoBASE"
+        angle="360"
+        parameters=""
+        x="1570.0"
+        y="1926.0" />
+
+    <Object
+        id="45"
+        name="techoBASE"
+        angle="90"
+        parameters=""
+        x="1752.0"
+        y="1209.0" />
+
+    <Object
+        id="45"
+        name="techoBASE"
+        angle="90"
+        parameters=""
+        x="1750.0"
+        y="412.0" />
+
+    <Object
+        id="45"
+        name="techoBASE"
+        angle="0"
+        parameters=""
+        x="1593.0"
+        y="-180.0" />
+
+    <Object
+        id="45"
+        name="techoBASE"
+        angle="90"
+        parameters=""
+        x="2333.0"
+        y="-30.0" />
+
+    <Object
+        id="45"
+        name="techoBASE"
+        angle="90"
+        parameters=""
+        x="2333.0"
+        y="768.0" />
+
+    <Object
+        id="45"
+        name="techoBASE"
+        angle="0"
+        parameters=""
+        x="2367.0"
+        y="1925.0" />
+
+    <Object
+        id="45"
+        name="techoBASE"
+        angle="0"
+        parameters=""
+        x="2385.0"
+        y="1498.0" />
+
+    <Object
+        id="45"
+        name="techoBASE"
+        angle="0"
+        parameters=""
+        x="3184.0"
+        y="1499.0" />
+
+    <Object
+        id="45"
+        name="techoBASE"
+        angle="0"
+        parameters=""
+        x="3164.0"
+        y="1927.0" />
+
+    <Object
+        id="45"
+        name="techoBASE"
+        angle="0"
+        parameters=""
+        x="3983.0"
+        y="1499.0" />
+
+    <Object
+        id="45"
+        name="techoBASE"
+        angle="0"
+        parameters=""
+        x="3963.0"
+        y="2131.0" />
+
+    <Object
+        id="13"
+        name="lago"
+        angle="0"
+        parameters=""
+        x="4015.0"
+        y="2049.0" />
+
+    <Object
+        id="12"
+        name="gel"
+        angle="0"
+        parameters=""
+        x="4186.0"
+        y="2103.0" />
+
+    <Object
+        id="45"
+        name="techoBASE"
+        angle="0"
+        parameters=""
+        x="4782.0"
+        y="1499.0" />
+
+    <Object
+        id="45"
+        name="techoBASE"
+        angle="0"
+        parameters=""
+        x="5579.0"
+        y="1498.0" />
+
+    <Object
+        id="44"
+        name="bone"
+        angle="108"
+        parameters=""
+        x="4813.0"
+        y="2284.0" />
+
+    <Object
+        id="44"
+        name="bone"
+        angle="102"
+        parameters=""
+        x="5093.0"
+        y="2366.0" />
+
+    <Object
+        id="44"
+        name="bone"
+        angle="84"
+        parameters=""
+        x="5382.0"
+        y="2393.0" />
+
+    <Object
+        id="44"
+        name="bone"
+        angle="76"
+        parameters=""
+        x="5658.0"
+        y="2319.0" />
+
+    <Object
+        id="44"
+        name="bone"
+        angle="70"
+        parameters=""
+        x="5927.0"
+        y="2215.0" />
+
+    <Object
+        id="17"
+        name="hueso2"
+        angle="130"
+        parameters=""
+        x="6178.0"
+        y="2045.0" />
+
+    <Object
+        id="17"
+        name="hueso2"
+        angle="320"
+        parameters=""
+        x="6292.0"
+        y="1855.0" />
+
+    <Object
+        id="17"
+        name="hueso2"
+        angle="0"
+        parameters=""
+        x="6327.0"
+        y="1523.0" />
+
+    <Object
+        id="17"
+        name="hueso2"
+        angle="172"
+        parameters=""
+        x="6572.0"
+        y="1549.0" />
+
+    <Object
+        id="17"
+        name="hueso2"
+        angle="6"
+        parameters=""
+        x="6808.0"
+        y="1497.0" />
+
+    <Object
+        id="17"
+        name="hueso2"
+        angle="64"
+        parameters=""
+        x="7029.0"
+        y="1520.0" />
+
+    <Object
+        id="17"
+        name="hueso2"
+        angle="128"
+        parameters=""
+        x="6981.0"
+        y="1748.0" />
+
+    <Object
+        id="17"
+        name="hueso2"
+        angle="310"
+        parameters=""
+        x="6760.0"
+        y="1901.0" />
+
+    <Object
+        id="17"
+        name="hueso2"
+        angle="240"
+        parameters=""
+        x="6757.0"
+        y="2114.0" />
+
+    <Object
+        id="17"
+        name="hueso2"
+        angle="174"
+        parameters=""
+        x="6923.0"
+        y="2312.0" />
+
+    <Object
+        id="17"
+        name="hueso2"
+        angle="114"
+        parameters=""
+        x="7168.0"
+        y="2073.0" />
+
+    <Object
+        id="17"
+        name="hueso2"
+        angle="90"
+        parameters=""
+        x="6634.0"
+        y="1997.0" />
+
+    <Object
+        id="17"
+        name="hueso2"
+        angle="260"
+        parameters=""
+        x="6572.0"
+        y="2245.0" />
+
+    <Object
+        id="17"
+        name="hueso2"
+        angle="194"
+        parameters=""
+        x="6638.0"
+        y="2490.0" />
+
+    <Object
+        id="17"
+        name="hueso2"
+        angle="6"
+        parameters=""
+        x="6881.0"
+        y="2493.0" />
+
+    <Object
+        id="17"
+        name="hueso2"
+        angle="178"
+        parameters=""
+        x="7131.0"
+        y="2585.0" />
+
+    <Object
+        id="17"
+        name="hueso2"
+        angle="108"
+        parameters=""
+        x="7379.0"
+        y="2331.0" />
+
+    <Object
+        id="17"
+        name="hueso2"
+        angle="306"
+        parameters=""
+        x="7221.0"
+        y="1852.0" />
+
+    <Object
+        id="45"
+        name="techoBASE"
+        angle="0"
+        parameters=""
+        x="7514.0"
+        y="1763.0" />
+
+    <Object
+        id="45"
+        name="techoBASE"
+        angle="0"
+        parameters=""
+        x="7514.0"
+        y="2292.0" />
+
+    <Object
+        id="45"
+        name="techoBASE"
+        angle="0"
+        parameters=""
+        x="8311.0"
+        y="2293.0" />
+
+    <Object
+        id="45"
+        name="techoBASE"
+        angle="270"
+        parameters=""
+        x="8864.0"
+        y="1576.0" />
+
+    <Object
+        id="45"
+        name="techoBASE"
+        angle="270"
+        parameters=""
+        x="8245.0"
+        y="1213.0" />
+
+    <Object
+        id="45"
+        name="techoBASE"
+        angle="360"
+        parameters=""
+        x="8485.0"
+        y="1065.0" />
+
+    <Object
+        id="45"
+        name="techoBASE"
+        angle="360"
+        parameters=""
+        x="9105.0"
+        y="1507.0" />
+
+    <Object
+        id="45"
+        name="techoBASE"
+        angle="360"
+        parameters=""
+        x="9283.0"
+        y="1065.0" />
+
+    <Object
+        id="19"
+        name="plataforma Mobil"
+        angle="0"
+        parameters="timeToMove@5#speed 150 Normal@200"
+        x="9193.0"
+        y="1400.0" />
+
+    <Object
+        id="15"
+        name="plataformaBasica"
+        angle="90"
+        parameters=""
+        x="8656.0"
+        y="1860.0" />
+
+    <Object
+        id="15"
+        name="plataformaBasica"
+        angle="180"
+        parameters=""
+        x="8593.0"
+        y="1555.0" />
+
+    <Object
+        id="15"
+        name="plataformaBasica"
+        angle="0"
+        parameters=""
+        x="9538.0"
+        y="1286.0" />
+
+    <Object
+        id="45"
+        name="techoBASE"
+        angle="0"
+        parameters=""
+        x="10082.0"
+        y="1066.0" />
+
+    <Object
+        id="45"
+        name="techoBASE"
+        angle="8"
+        parameters=""
+        x="9869.0"
+        y="1510.0" />
+
+    <Object
+        id="45"
+        name="techoBASE"
+        angle="0"
+        parameters=""
+        x="10661.0"
+        y="1617.0" />
+
+    <Object
+        id="45"
+        name="techoBASE"
+        angle="0"
+        parameters=""
+        x="10881.0"
+        y="1066.0" />
+
+    <Object
+        id="15"
+        name="plataformaBasica"
+        angle="0"
+        parameters=""
+        x="11221.0"
+        y="1451.0" />
+
+    <Object
+        id="15"
+        name="plataformaBasica"
+        angle="90"
+        parameters=""
+        x="10621.0"
+        y="1482.0" />
+
+    <Object
+        id="15"
+        name="plataformaBasica"
+        angle="180"
+        parameters=""
+        x="10679.0"
+        y="1434.0" />
+
+    <Object
+        id="15"
+        name="plataformaBasica"
+        angle="178"
+        parameters=""
+        x="10850.0"
+        y="1426.0" />
+
+    <Object
+        id="42"
+        name="erizo"
+        angle="0"
+        parameters=""
+        x="11247.0"
+        y="1521.0" />
+
+    <Object
+        id="45"
+        name="techoBASE"
+        angle="12"
+        parameters=""
+        x="11626.0"
+        y="1067.0" />
+
+    <Object
+        id="45"
+        name="techoBASE"
+        angle="12"
+        parameters=""
+        x="11402.0"
+        y="1620.0" />
+
+    <Object
+        id="45"
+        name="techoBASE"
+        angle="12"
+        parameters=""
+        x="12181.0"
+        y="1785.0" />
+
+    <Object
+        id="45"
+        name="techoBASE"
+        angle="12"
+        parameters=""
+        x="12403.0"
+        y="1231.0" />
+
+    <Object
+        id="46"
+        name="techoBASE"
+        angle="192"
+        parameters=""
+        x="12962.0"
+        y="1988.0" />
+
+    <Object
+        id="45"
+        name="techoBASE"
+        angle="0"
+        parameters=""
+        x="13188.0"
+        y="1390.0" />
+
+    <Object
+        id="45"
+        name="techoBASE"
+        angle="94"
+        parameters=""
+        x="13571.0"
+        y="1621.0" />
+
+    <Object
+        id="45"
+        name="techoBASE"
+        angle="82"
+        parameters=""
+        x="12857.0"
+        y="2118.0" />
+
+    <Object
+        id="45"
+        name="techoBASE"
+        angle="352"
+        parameters=""
+        x="13153.0"
+        y="2556.0" />
+
+    <Object
+        id="45"
+        name="techoBASE"
+        angle="0"
+        parameters=""
+        x="13806.0"
+        y="2133.0" />
+
+    <Object
+        id="45"
+        name="techoBASE"
+        angle="0"
+        parameters=""
+        x="13946.0"
+        y="2557.0" />
+
+    <Object
+        id="46"
+        name="techoBASE"
+        angle="274"
+        parameters=""
+        x="13587.0"
+        y="2412.0" />
+
+    <Object
+        id="45"
+        name="techoBASE"
+        angle="96"
+        parameters=""
+        x="14494.0"
+        y="1503.0" />
+
+    <Object
+        id="45"
+        name="techoBASE"
+        angle="80"
+        parameters=""
+        x="15028.0"
+        y="1489.0" />
+
+    <Object
+        id="46"
+        name="techoBASE"
+        angle="276"
+        parameters=""
+        x="14506.0"
+        y="2290.0" />
+
+    <Object
+        id="45"
+        name="techoBASE"
+        angle="0"
+        parameters=""
+        x="14743.0"
+        y="2556.0" />
+
+    <Object
+        id="45"
+        name="techoBASE"
+        angle="0"
+        parameters=""
+        x="15223.0"
+        y="2108.0" />
+
+    <Object
+        id="45"
+        name="techoBASE"
+        angle="0"
+        parameters=""
+        x="15542.0"
+        y="2557.0" />
+
+    <Object
+        id="15"
+        name="plataformaBasica"
+        angle="88"
+        parameters=""
+        x="14909.0"
+        y="1821.0" />
+
+    <Object
+        id="15"
+        name="plataformaBasica"
+        angle="88"
+        parameters=""
+        x="14889.0"
+        y="1424.0" />
+
+    <Object
+        id="45"
+        name="techoBASE"
+        angle="0"
+        parameters=""
+        x="16021.0"
+        y="2109.0" />
+
+    <Object
+        id="45"
+        name="techoBASE"
+        angle="0"
+        parameters=""
+        x="16339.0"
+        y="2557.0" />
+
+    <Object
+        id="26"
+        name="wallCover"
+        angle="180"
+        parameters=""
+        x="16757.0"
+        y="2307.0" />
+
+    <Object
+        id="45"
+        name="techoBASE"
+        angle="0"
+        parameters=""
+        x="16820.0"
+        y="2112.0" />
+
+    <Object
+        id="45"
+        name="techoBASE"
+        angle="270"
+        parameters=""
+        x="17053.0"
+        y="2224.0" />
+
+    <Object
+        id="17"
+        name="hueso2"
+        angle="308"
+        parameters=""
+        x="5038.0"
+        y="2127.0" />
+
+    <Object
+        id="17"
+        name="hueso2"
+        angle="50"
+        parameters=""
+        x="5481.0"
+        y="2134.0" />
+
+    <Object
+        id="42"
+        name="erizo"
+        angle="0"
+        parameters=""
+        x="5107.0"
+        y="2254.0" />
+
+    <Object
+        id="10"
+        name="erizo"
+        angle="0"
+        parameters=""
+        x="5240.0"
+        y="2151.0" />
+
+    <Object
+        id="11"
+        name="erizo2"
+        angle="0"
+        parameters=""
+        x="5453.0"
+        y="2157.0" />
+
+    <Object
+        id="42"
+        name="erizo"
+        angle="178"
+        parameters=""
+        x="5528.0"
+        y="2274.0" />
+
+    <Object
+        id="42"
+        name="erizo"
+        angle="0"
+        parameters=""
+        x="1041.0"
+        y="66.0" />
+
+    <Object
+        id="42"
+        name="erizo"
+        angle="0"
+        parameters=""
+        x="764.0"
+        y="626.0" />
+
+    <Object
+        id="42"
+        name="erizo"
+        angle="0"
+        parameters=""
+        x="1074.0"
+        y="1227.0" />
+
+    <Object
+        id="42"
+        name="erizo"
+        angle="0"
+        parameters=""
+        x="772.0"
+        y="1825.0" />
+
+    <Object
+        id="42"
+        name="erizo"
+        angle="0"
+        parameters=""
+        x="1642.0"
+        y="1829.0" />
+
+    <Object
+        id="42"
+        name="erizo"
+        angle="0"
+        parameters=""
+        x="1378.0"
+        y="55.0" />
+
+    <Object
+        id="42"
+        name="erizo"
+        angle="0"
+        parameters=""
+        x="2229.0"
+        y="60.0" />
+
+    <Object
+        id="42"
+        name="erizo"
+        angle="0"
+        parameters=""
+        x="1957.0"
+        y="674.0" />
+
+    <Object
+        id="42"
+        name="erizo"
+        angle="0"
+        parameters=""
+        x="2230.0"
+        y="1418.0" />
+
+    <Object
+        id="42"
+        name="erizo"
+        angle="0"
+        parameters=""
+        x="1970.0"
+        y="1831.0" />
+
+    <Object
+        id="42"
+        name="erizo"
+        angle="0"
+        parameters=""
+        x="3088.0"
+        y="1685.0" />
+
+    <Object
+        id="42"
+        name="erizo"
+        angle="0"
+        parameters=""
+        x="4004.0"
+        y="1959.0" />
+
+    <Object
+        id="42"
+        name="erizo"
+        angle="0"
+        parameters=""
+        x="4712.0"
+        y="2039.0" />
+
+    <Object
+        id="42"
+        name="erizo"
+        angle="0"
+        parameters=""
+        x="6117.0"
+        y="2099.0" />
+
+    <Object
+        id="42"
+        name="erizo"
+        angle="0"
+        parameters=""
+        x="7293.0"
+        y="1927.0" />
+
+    <Object
+        id="42"
+        name="erizo"
+        angle="0"
+        parameters=""
+        x="8479.0"
+        y="1310.0" />
+
+    <Object
+        id="42"
+        name="erizo"
+        angle="0"
+        parameters=""
+        x="9846.0"
+        y="1443.0" />
+
+    <Object
+        id="42"
+        name="erizo"
+        angle="0"
+        parameters=""
+        x="12082.0"
+        y="1372.0" />
+
+    <Object
+        id="42"
+        name="erizo"
+        angle="0"
+        parameters=""
+        x="12531.0"
+        y="1772.0" />
+
+    <Object
+        id="42"
+        name="erizo"
+        angle="0"
+        parameters=""
+        x="13510.0"
+        y="1627.0" />
+
+    <Object
+        id="42"
+        name="erizo"
+        angle="0"
+        parameters=""
+        x="13143.0"
+        y="2572.0" />
+
+    <Object
+        id="42"
+        name="erizo"
+        angle="0"
+        parameters=""
+        x="13771.0"
+        y="2318.0" />
+
+    <Object
+        id="42"
+        name="erizo"
+        angle="0"
+        parameters=""
+        x="15026.0"
+        y="2059.0" />
+
+    <Object
+        id="42"
+        name="erizo"
+        angle="0"
+        parameters=""
+        x="14788.0"
+        y="1559.0" />
+
+    <Object
+        id="42"
+        name="erizo"
+        angle="0"
+        parameters=""
+        x="15470.0"
+        y="2240.0" />
+
+    <Object
+        id="42"
+        name="erizo"
+        angle="0"
+        parameters=""
+        x="15960.0"
+        y="2480.0" />
+
+    <Object
+        id="42"
+        name="erizo"
+        angle="0"
+        parameters=""
+        x="8164.0"
+        y="1968.0" />
+
+    <Object
+        id="42"
+        name="erizo"
+        angle="0"
+        parameters=""
+        x="8773.0"
+        y="2210.0" />
+
+    <Object
+        id="38"
+        name="Checkpoint"
+        angle="0"
+        parameters=""
+        x="1291.0"
+        y="1861.0" />
+
+    <Object
+        id="38"
+        name="Checkpoint"
+        angle="0"
+        parameters=""
+        x="2516.0"
+        y="1852.0" />
+
+    <Object
+        id="38"
+        name="Checkpoint"
+        angle="0"
+        parameters=""
+        x="5362.0"
+        y="1947.0" />
+
+    <Object
+        id="38"
+        name="Checkpoint"
+        angle="0"
+        parameters=""
+        x="9001.0"
+        y="1395.0" />
+
+    <Object
+        id="38"
+        name="Checkpoint"
+        angle="0"
+        parameters=""
+        x="13691.0"
+        y="2565.0" />
+
+    <Object
+        id="30"
+        name="vulcano"
+        angle="0"
+        parameters="isReverse@0"
+        x="2668.0"
+        y="1891.0" />
+
+    <Object
+        id="20"
+        name="globulo blanco"
+        angle="0"
+        parameters=""
+        x="12901.0"
+        y="1729.0" />
+
+    <Object
+        id="20"
+        name="globulo blanco"
+        angle="0"
+        parameters=""
+        x="10927.0"
+        y="1570.0" />
+
+    <Object
+        id="20"
+        name="globulo blanco"
+        angle="0"
+        parameters=""
+        x="6905.0"
+        y="1593.0" />
+
+    <Object
+        id="20"
+        name="globulo blanco"
+        angle="0"
+        parameters=""
+        x="6969.0"
+        y="1659.0" />
+
+    <Object
+        id="20"
+        name="globulo blanco"
+        angle="0"
+        parameters=""
+        x="6832.0"
+        y="1655.0" />
+
+    <Object
+        id="20"
+        name="globulo blanco"
+        angle="0"
+        parameters=""
+        x="6210.0"
+        y="1860.0" />
+
+    <Object
+        id="20"
+        name="globulo blanco"
+        angle="0"
+        parameters=""
+        x="6207.0"
+        y="1939.0" />
+
+    <Object
+        id="20"
+        name="globulo blanco"
+        angle="0"
+        parameters=""
+        x="2155.0"
+        y="1188.0" />
+
+    <Object
+        id="20"
+        name="globulo blanco"
+        angle="0"
+        parameters=""
+        x="1870.0"
+        y="161.0" />
+
+    <Object
+        id="20"
+        name="globulo blanco"
+        angle="0"
+        parameters=""
+        x="1566.0"
+        y="1038.0" />
+
+    <Object
+        id="20"
+        name="globulo blanco"
+        angle="0"
+        parameters=""
+        x="4048.0"
+        y="1824.0" />
+
+    <Object
+        id="20"
+        name="globulo blanco"
+        angle="0"
+        parameters=""
+        x="8622.0"
+        y="2196.0" />
+
+    <Object
+        id="20"
+        name="globulo blanco"
+        angle="0"
+        parameters=""
+        x="10290.0"
+        y="1461.0" />
+
+    <Object
+        id="30"
+        name="vulcano"
+        angle="182"
+        parameters="isReverse@1"
+        x="11616.0"
+        y="1301.0" />
+
+    <Object
+        id="30"
+        name="vulcano"
+        angle="182"
+        parameters="isReverse@1"
+        x="14147.0"
+        y="2359.0" />
+
+    <Object
+        id="19"
+        name="plataforma Mobil"
+        angle="0"
+        parameters="timeToMove@3#speed 150 Normal@200"
+        x="13118.0"
+        y="2218.0" />
+
+    <Object
+        id="30"
+        name="vulcano"
+        angle="182"
+        parameters="isReverse@1"
+        x="15233.0"
+        y="2340.0" />
+
+    <Object
+        id="15"
+        name="plataformaBasica"
+        angle="0"
+        parameters=""
+        x="14812.0"
+        y="1093.0" />
+
+    <Object
+        id="30"
+        name="vulcano"
+        angle="182"
+        parameters="isReverse@1"
+        x="3653.0"
+        y="1734.0" />
+
+    <Object
+        id="30"
+        name="vulcano"
+        angle="182"
+        parameters="isReverse@1"
+        x="5328.0"
+        y="1730.0" />
+
+    <Object
+        id="30"
+        name="vulcano"
+        angle="182"
+        parameters="isReverse@1"
+        x="4341.0"
+        y="1726.0" />
+
+    <Object
+        id="24"
+        name="player begin"
+        angle="0"
+        parameters=""
+        x="40.0"
+        y="81.0" />
+
+    <Object
+        id="46"
+        name="techoBASE"
+        angle="180"
+        parameters=""
+        x="782.0"
+        y="427.0" />
+
+    <Object
+        id="46"
+        name="techoBASE"
+        angle="270"
+        parameters=""
+        x="1175.0"
+        y="1646.0" />
+
+    <Object
+        id="46"
+        name="techoBASE"
+        angle="90"
+        parameters=""
+        x="1774.0"
+        y="290.0" />
+
+    <Object
+        id="46"
+        name="techoBASE"
+        angle="0"
+        parameters=""
+        x="2242.0"
+        y="1537.0" />
+
+    <Object
+        id="46"
+        name="techoBASE"
+        angle="0"
+        parameters=""
+        x="2263.0"
+        y="1521.0" />
+
+    <Object
+        id="46"
+        name="techoBASE"
+        angle="180"
+        parameters=""
+        x="3961.0"
+        y="1953.0" />
+
+    <Object
+        id="46"
+        name="techoBASE"
+        angle="0"
+        parameters=""
+        x="3841.0"
+        y="2155.0" />
+
+    <Object
+        id="46"
+        name="techoBASE"
+        angle="180"
+        parameters=""
+        x="4760.0"
+        y="2156.0" />
+
+    <Object
+        id="16"
+        name="hueso1"
+        angle="128"
+        parameters=""
+        x="6504.0"
+        y="1730.0" />
+
+    <Object
+        id="16"
+        name="hueso1"
+        angle="224"
+        parameters=""
+        x="6504.0"
+        y="1890.0" />
+
+    <Object
+        id="16"
+        name="hueso1"
+        angle="166"
+        parameters=""
+        x="6517.0"
+        y="1840.0" />
+
+    <Object
+        id="46"
+        name="techoBASE"
+        angle="180"
+        parameters=""
+        x="6377.0"
+        y="1524.0" />
+
+    <Object
+        id="46"
+        name="techoBASE"
+        angle="0"
+        parameters=""
+        x="7392.0"
+        y="1788.0" />
+
+    <Object
+        id="46"
+        name="techoBASE"
+        angle="0"
+        parameters=""
+        x="7392.0"
+        y="2316.0" />
+
+    <Object
+        id="30"
+        name="vulcano"
+        angle="182"
+        parameters="isReverse@1"
+        x="7698.0"
+        y="2017.0" />
+
+    <Object
+        id="46"
+        name="techoBASE"
+        angle="270"
+        parameters=""
+        x="8268.0"
+        y="2001.0" />
+
+    <Object
+        id="46"
+        name="techoBASE"
+        angle="90"
+        parameters=""
+        x="8270.0"
+        y="1082.0" />
+
+    <Object
+        id="46"
+        name="techoBASE"
+        angle="90"
+        parameters=""
+        x="8890.0"
+        y="1445.0" />
+
+    <Object
+        id="46"
+        name="techoBASE"
+        angle="0"
+        parameters=""
+        x="15101.0"
+        y="2131.0" />
+
+    <Object
+        id="25"
+        name="player end"
+        angle="182"
+        parameters=""
+        x="16909.0"
+        y="2388.0" />
+
+    <Object
+        id="46"
+        name="techoBASE"
+        angle="96"
+        parameters=""
+        x="14602.0"
+        y="1385.0" />
+
+    <Object
+        id="46"
+        name="techoBASE"
+        angle="80"
+        parameters=""
+        x="15031.0"
+        y="1373.0" />
+
+    <Object
+        id="17"
+        name="hueso2"
+        angle="46"
+        parameters=""
+        x="15022.0"
+        y="1218.0" />
+
+    <Object
+        id="17"
+        name="hueso2"
+        angle="358"
+        parameters=""
+        x="14814.0"
+        y="1223.0" />
+
+    <Object
+        id="17"
+        name="hueso2"
+        angle="296"
+        parameters=""
+        x="14660.0"
+        y="1248.0" />
+
+    <Object
+        id="28"
+        name="ADN"
+        angle="0"
+        parameters=""
+        x="888.0"
+        y="264.0" />
+
+    <Object
+        id="28"
+        name="ADN"
+        angle="0"
+        parameters=""
+        x="982.0"
+        y="314.0" />
+
+    <Object
+        id="28"
+        name="ADN"
+        angle="0"
+        parameters=""
+        x="1038.0"
+        y="381.0" />
+
+    <Object
+        id="28"
+        name="ADN"
+        angle="0"
+        parameters=""
+        x="1056.0"
+        y="466.0" />
+
+    <Object
+        id="28"
+        name="ADN"
+        angle="0"
+        parameters=""
+        x="1058.0"
+        y="560.0" />
+
+    <Object
+        id="28"
+        name="ADN"
+        angle="0"
+        parameters=""
+        x="1045.0"
+        y="675.0" />
+
+    <Object
+        id="28"
+        name="ADN"
+        angle="0"
+        parameters=""
+        x="1001.0"
+        y="797.0" />
+
+    <Object
+        id="28"
+        name="ADN"
+        angle="0"
+        parameters=""
+        x="960.0"
+        y="900.0" />
+
+    <Object
+        id="28"
+        name="ADN"
+        angle="0"
+        parameters=""
+        x="935.0"
+        y="1029.0" />
+
+    <Object
+        id="28"
+        name="ADN"
+        angle="0"
+        parameters=""
+        x="935.0"
+        y="1146.0" />
+
+    <Object
+        id="28"
+        name="ADN"
+        angle="0"
+        parameters=""
+        x="957.0"
+        y="1269.0" />
+
+    <Object
+        id="28"
+        name="ADN"
+        angle="0"
+        parameters=""
+        x="1014.0"
+        y="1394.0" />
+
+    <Object
+        id="28"
+        name="ADN"
+        angle="0"
+        parameters=""
+        x="1045.0"
+        y="1520.0" />
+
+    <Object
+        id="28"
+        name="ADN"
+        angle="0"
+        parameters=""
+        x="1067.0"
+        y="1660.0" />
+
+    <Object
+        id="28"
+        name="ADN"
+        angle="0"
+        parameters=""
+        x="1161.0"
+        y="1799.0" />
+
+    <Object
+        id="28"
+        name="ADN"
+        angle="0"
+        parameters=""
+        x="1646.0"
+        y="299.0" />
+
+    <Object
+        id="28"
+        name="ADN"
+        angle="0"
+        parameters=""
+        x="1720.0"
+        y="215.0" />
+
+    <Object
+        id="28"
+        name="ADN"
+        angle="0"
+        parameters=""
+        x="2027.0"
+        y="190.0" />
+
+    <Object
+        id="28"
+        name="ADN"
+        angle="0"
+        parameters=""
+        x="2114.0"
+        y="293.0" />
+
+    <Object
+        id="28"
+        name="ADN"
+        angle="0"
+        parameters=""
+        x="2178.0"
+        y="399.0" />
+
+    <Object
+        id="28"
+        name="ADN"
+        angle="0"
+        parameters=""
+        x="2241.0"
+        y="536.0" />
+
+    <Object
+        id="28"
+        name="ADN"
+        angle="0"
+        parameters=""
+        x="2261.0"
+        y="684.0" />
+
+    <Object
+        id="28"
+        name="ADN"
+        angle="0"
+        parameters=""
+        x="2229.0"
+        y="846.0" />
+
+    <Object
+        id="28"
+        name="ADN"
+        angle="0"
+        parameters=""
+        x="2165.0"
+        y="1001.0" />
+
+    <Object
+        id="28"
+        name="ADN"
+        angle="0"
+        parameters=""
+        x="2388.0"
+        y="1863.0" />
+
+    <Object
+        id="28"
+        name="ADN"
+        angle="0"
+        parameters=""
+        x="2242.0"
+        y="1849.0" />
+
+    <Object
+        id="28"
+        name="ADN"
+        angle="0"
+        parameters=""
+        x="2143.0"
+        y="1759.0" />
+
+    <Object
+        id="28"
+        name="ADN"
+        angle="0"
+        parameters=""
+        x="2118.0"
+        y="1622.0" />
+
+    <Object
+        id="28"
+        name="ADN"
+        angle="0"
+        parameters=""
+        x="2130.0"
+        y="1469.0" />
+
+    <Object
+        id="28"
+        name="ADN"
+        angle="0"
+        parameters=""
+        x="2704.0"
+        y="1871.0" />
+
+    <Object
+        id="28"
+        name="ADN"
+        angle="0"
+        parameters=""
+        x="3684.0"
+        y="1814.0" />
+
+    <Object
+        id="28"
+        name="ADN"
+        angle="0"
+        parameters=""
+        x="4375.0"
+        y="1805.0" />
+
+    <Object
+        id="28"
+        name="ADN"
+        angle="0"
+        parameters=""
+        x="5467.0"
+        y="2287.0" />
+
+    <Object
+        id="28"
+        name="ADN"
+        angle="0"
+        parameters=""
+        x="5292.0"
+        y="2261.0" />
+
+    <Object
+        id="28"
+        name="ADN"
+        angle="0"
+        parameters=""
+        x="5371.0"
+        y="2182.0" />
+
+    <Object
+        id="28"
+        name="ADN"
+        angle="0"
+        parameters=""
+        x="5378.0"
+        y="2063.0" />
+
+    <Object
+        id="28"
+        name="ADN"
+        angle="0"
+        parameters=""
+        x="5367.0"
+        y="1828.0" />
+
+    <Object
+        id="28"
+        name="ADN"
+        angle="0"
+        parameters=""
+        x="6327.0"
+        y="1852.0" />
+
+    <Object
+        id="28"
+        name="ADN"
+        angle="0"
+        parameters=""
+        x="6445.0"
+        y="1798.0" />
+
+    <Object
+        id="28"
+        name="ADN"
+        angle="0"
+        parameters=""
+        x="6520.0"
+        y="1701.0" />
+
+    <Object
+        id="28"
+        name="ADN"
+        angle="0"
+        parameters=""
+        x="6621.0"
+        y="1672.0" />
+
+    <Object
+        id="28"
+        name="ADN"
+        angle="0"
+        parameters=""
+        x="6724.0"
+        y="1705.0" />
+
+    <Object
+        id="28"
+        name="ADN"
+        angle="0"
+        parameters=""
+        x="6799.0"
+        y="1783.0" />
+
+    <Object
+        id="28"
+        name="ADN"
+        angle="0"
+        parameters=""
+        x="6791.0"
+        y="1916.0" />
+
+    <Object
+        id="28"
+        name="ADN"
+        angle="0"
+        parameters=""
+        x="6736.0"
+        y="2001.0" />
+
+    <Object
+        id="28"
+        name="ADN"
+        angle="0"
+        parameters=""
+        x="6730.0"
+        y="2121.0" />
+
+    <Object
+        id="28"
+        name="ADN"
+        angle="0"
+        parameters=""
+        x="7725.0"
+        y="2100.0" />
+
+    <Object
+        id="28"
+        name="ADN"
+        angle="0"
+        parameters=""
+        x="8731.0"
+        y="2182.0" />
+
+    <Object
+        id="28"
+        name="ADN"
+        angle="0"
+        parameters=""
+        x="8804.0"
+        y="2111.0" />
+
+    <Object
+        id="28"
+        name="ADN"
+        angle="0"
+        parameters=""
+        x="8833.0"
+        y="2002.0" />
+
+    <Object
+        id="28"
+        name="ADN"
+        angle="0"
+        parameters=""
+        x="8832.0"
+        y="1858.0" />
+
+    <Object
+        id="28"
+        name="ADN"
+        angle="0"
+        parameters=""
+        x="8774.0"
+        y="1753.0" />
+
+    <Object
+        id="28"
+        name="ADN"
+        angle="0"
+        parameters=""
+        x="8606.0"
+        y="1712.0" />
+
+    <Object
+        id="28"
+        name="ADN"
+        angle="0"
+        parameters=""
+        x="8545.0"
+        y="1616.0" />
+
+    <Object
+        id="28"
+        name="ADN"
+        angle="0"
+        parameters=""
+        x="8603.0"
+        y="1508.0" />
+
+    <Object
+        id="28"
+        name="ADN"
+        angle="0"
+        parameters=""
+        x="8711.0"
+        y="1458.0" />
+
+    <Object
+        id="28"
+        name="ADN"
+        angle="0"
+        parameters=""
+        x="11650.0"
+        y="1386.0" />
+
+    <Object
+        id="28"
+        name="ADN"
+        angle="0"
+        parameters=""
+        x="14186.0"
+        y="2440.0" />
+
+    <Object
+        id="28"
+        name="ADN"
+        angle="0"
+        parameters=""
+        x="15267.0"
+        y="2419.0" />
+
+    <Object
+        id="28"
+        name="ADN"
+        angle="0"
+        parameters=""
+        x="14905.0"
+        y="2178.0" />
+
+    <Object
+        id="28"
+        name="ADN"
+        angle="0"
+        parameters=""
+        x="14978.0"
+        y="2100.0" />
+
+    <Object
+        id="28"
+        name="ADN"
+        angle="0"
+        parameters=""
+        x="15050.0"
+        y="2026.0" />
+
+    <Object
+        id="28"
+        name="ADN"
+        angle="0"
+        parameters=""
+        x="15080.0"
+        y="1929.0" />
+
+    <Object
+        id="28"
+        name="ADN"
+        angle="0"
+        parameters=""
+        x="15062.0"
+        y="1815.0" />
+
+    <Object
+        id="28"
+        name="ADN"
+        angle="0"
+        parameters=""
+        x="15037.0"
+        y="1681.0" />
+
+    <Object
+        id="28"
+        name="ADN"
+        angle="0"
+        parameters=""
+        x="15026.0"
+        y="1521.0" />
+
+    <Object
+        id="28"
+        name="ADN"
+        angle="0"
+        parameters=""
+        x="15033.0"
+        y="1372.0" />
+
+    <Object
+        id="28"
+        name="ADN"
+        angle="0"
+        parameters=""
+        x="14869.0"
+        y="1368.0" />
+
+    <Object
+        id="28"
+        name="ADN"
+        angle="0"
+        parameters=""
+        x="14863.0"
+        y="2277.0" />
+
+    <Object
+        id="28"
+        name="ADN"
+        angle="0"
+        parameters=""
+        x="14856.0"
+        y="2379.0" />
+
+    <Object
+        id="28"
+        name="ADN"
+        angle="0"
+        parameters=""
+        x="14817.0"
+        y="2464.0" />
+
+    <Object
+        id="28"
+        name="ADN"
+        angle="0"
+        parameters=""
+        x="14742.0"
+        y="2516.0" />
+
+    <Object
+        id="28"
+        name="ADN"
+        angle="0"
+        parameters=""
+        x="14659.0"
+        y="2519.0" />
+
+    <Object
+        id="28"
+        name="ADN"
+        angle="0"
+        parameters=""
+        x="14575.0"
+        y="2470.0" />
+
+    <Object
+        id="28"
+        name="ADN"
+        angle="0"
+        parameters=""
+        x="14443.0"
+        y="2488.0" />
+
+    <Object
+        id="28"
+        name="ADN"
+        angle="0"
+        parameters=""
+        x="14918.0"
+        y="2455.0" />
+
+    <Object
+        id="28"
+        name="ADN"
+        angle="0"
+        parameters=""
+        x="15035.0"
+        y="2441.0" />
+
+    <Object
+        id="28"
+        name="ADN"
+        angle="0"
+        parameters=""
+        x="15161.0"
+        y="2441.0" />
+
+    <Object
+        id="28"
+        name="ADN"
+        angle="0"
+        parameters=""
+        x="16032.0"
+        y="2412.0" />
+
+    <Object
+        id="28"
+        name="ADN"
+        angle="0"
+        parameters=""
+        x="16141.0"
+        y="2421.0" />
+
+    <Object
+        id="28"
+        name="ADN"
+        angle="0"
+        parameters=""
+        x="16244.0"
+        y="2485.0" />
+
+    <Object
+        id="28"
+        name="ADN"
+        angle="0"
+        parameters=""
+        x="16352.0"
+        y="2528.0" />
+
+    <Object
+        id="28"
+        name="ADN"
+        angle="0"
+        parameters=""
+        x="16504.0"
+        y="2518.0" />
+
+    <Object
+        id="34"
+        name=" enemy rombe"
+        angle="0"
+        parameters=""
+        x="15682.0"
+        y="2544.0" />
+
+    <Object
+        id="34"
+        name=" enemy rombe"
+        angle="0"
+        parameters=""
+        x="15667.0"
+        y="2462.0" />
+
+    <Object
+        id="34"
+        name=" enemy rombe"
+        angle="0"
+        parameters=""
+        x="15720.0"
+        y="2401.0" />
+
+    <Object
+        id="34"
+        name=" enemy rombe"
+        angle="0"
+        parameters=""
+        x="15772.0"
+        y="2452.0" />
+
+    <Object
+        id="34"
+        name=" enemy rombe"
+        angle="0"
+        parameters=""
+        x="15790.0"
+        y="2518.0" />
+
+    <Object
+        id="34"
+        name=" enemy rombe"
+        angle="0"
+        parameters=""
+        x="15868.0"
+        y="2462.0" />
+
+    <Object
+        id="33"
+        name="star"
+        angle="0"
+        parameters="id@21"
+        x="5379.0"
+        y="2319.0" />
+
+    <Object
+        id="33"
+        name="star"
+        angle="0"
+        parameters="id@22"
+        x="6913.0"
+        y="1745.0" />
+
+    <Object
+        id="33"
+        name="star"
+        angle="0"
+        parameters="id@23"
+        x="10764.0"
+        y="1578.0" />
+
+    <Object
+        id="33"
+        name="star"
+        angle="0"
+        parameters="id@24"
+        x="14943.0"
+        y="1314.0" />
+
+    <Object
+        id="33"
+        name="star"
+        angle="0"
+        parameters="id@25"
+        x="15742.0"
+        y="2516.0" />
+
+</Objects>

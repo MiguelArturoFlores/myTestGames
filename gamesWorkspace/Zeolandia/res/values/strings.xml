@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Zeolandia</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="app_id">951326333469</string>
+    <string name="unlockFacebook">Are you in troubles ?</string>
+    <string name="unlockFacebook2">Pass away this level Sharing</string>
+    <string name="noInternetConnection">You are not connected to Internet!</string>
+    <string name="shareVoluntaryFacebook"> This game is amazing! you are a pigeon who craps on people! Let\'s see how good you are crapping. </string>
+    <string name="getItFree"> Get it free on google play </string>
+    <string name="getItOnGet"> Click on "get" to download free </string>
+    <string name="shareToUnlockFacebook"> Crappy is crapping on everybody! Let\'s crap people with Crappy Pigeon! </string>
+    <string name="bonusLevel">THIS IS A BONUS LEVEL</string>
+    <string name="wantToQuit">Quit</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="success">Success</string>
+    <string name="successfully_posted_post">Successfully posted \'%1$s\'.\nPost ID: %2$s</string>
+    <string name="ok">OK</string>
+    <string name="cancelled">Cancelled</string>
+    <string name="permission_not_granted">Unable to perform selected action because permissions were not granted.</string>
+    <string name="error">Error</string>
+    <string name="photo_post">Photo Post</string>
+    <string name="com.facebook.sdk.ApplicationId">@string/app_id</string>
+
+    <!-- google play games services -->
+
+    <string name="gamehelper_license_failed">gamehelper_license_failed</string>
+    <string name="gamehelper_sign_in_failed">gamehelper_sign_in_failed</string>
+    <string name="gamehelper_unknown_error">gamehelper_unknown_error</string>
+    <string name="gamehelper_app_misconfigured">gamehelper_app_misconfigured</string>
+    <string name="sign_in_failed">sign_in_failed</string>
+    <string name="app_misconfigured">app_misconfigured</string>
+    <string name="license_failed">license_failed</string>
+    <string name="signin_other_error">signin_other_error</string>
+    <string name="signin_failure">signin_failure</string>
+
+    <!-- game strings -->
+    <string name="TAP_TO_CONTINUE">Tap to Continue</string>
+    <string name="SHARE_FACEBOOK_TO_EARN">Share on Facebook to earn FREE 100 diamants</string>
+    <string name="SHARE_WHATSAPP_TO_EARN">Share on Whatsapp to earn FREE 50 diamants</string>
+	<string name="LOGIN_WITH_TWITTER_TO_EARN">Login with Twitter to earn FREE 5000</string>
+	<string name="thanksSharing">Thanks for Sharing!</string>
+    <string name="looseRetry">You Lose Retry!</string>
+    <string name="winLevel">Congrats You Win!!!</string>
+    <string name="EARN_FREE_MONEY">You have earned free Money!</string>
+    <string name="UNLOCK_LEVEL_MESSAGE">You need more coins to unlock </string>
+    <string name="UNLOCK_LEVEL">To unlock</string>
+    <string name="FACEBOOK_SHARE_URL">https://play.google.com/store/apps/details?id=com.mgl.youtuberunner</string>
+    <string name="WHATSAPP_SHARE_MESSAGE">I am playing Youtuber Dash, its amazing there are a lot of youtubers you can use! tell me if you like it! https://play.google.com/store/apps/details?id=com.mgl.youtuberunner</string>
+	<string name="EARN_MONEY">You have earned Diamonds: </string>
+	<string name="UNLOCK_WITH_TWITTER">To unlock this level login with Twitter </string>
+	<string name="RATE_MESSAGE">Do you like Youtuber Dash ?</string>
+	<string name="SHARE_AND_WIN">Share and Earn</string>
+	<string name="FREE_MONEY">FREE coins!!! </string>
+	<string name="LOGIN_TWITTER_AND_WIN">Login with Twitter and earn</string>
+	
+	<string name="IHAVE_WIN">I have won</string>
+	<string name="POINTS_PLAYING">points playing with</string>
+	<string name="TO_YOUTUBER_DASH">to Youtuber Dash</string>
+	<string name="YOUTUBER_DASH_URL">https://play.google.com/store/apps/details?id=com.mgl.youtuberunner</string>
+	<string name="MORE_LEVEL_MESSAGE">Soon we will upload new levels!</string>
+	<string name="BEGIN_GAME_HELP">Tap screen to fly, release to fall!</string>
+	
+    
+    
+</resources>

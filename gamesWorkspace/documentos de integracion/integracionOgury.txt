@@ -1,0 +1,7 @@
+- crear nueva app http://admin.ogury.co/applications
+- include pressage on lib folder
+- agregate to manifest lines from ogury check another projects like vampire smasher and add the API key from application
+- in styles copy from vamp smasher 
+- in publicitySingleton ad presagge ti imports
+- en onStar agregar Presage.getInstance().start(); en MainDropActivity
+- testear con If you would like to force this through, please visit http://ogury.co/adtest.html on the browser of your testing device and request an ad impression.

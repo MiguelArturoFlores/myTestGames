@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.androidannotationstest.FragmentAnimationActivity" >
+
+    <LinearLayout
+        android:id="@+id/animation1stlayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <Button
+            android:id="@+id/buttonTop"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="top" />
+        <Button
+            android:id="@+id/buttonBotton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="botton" />
+        <Button
+            android:id="@+id/buttonLeft"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="left" />
+        <Button
+            android:id="@+id/buttonRight"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="right" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" 
+        android:layout_below="@+id/animation1stlayout">
+
+        <FrameLayout
+            android:id="@+id/fragmentTopBotton"
+            android:name="com.example.androidannotationstest.fragment.MyFragment_"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" 
+            android:layout_weight="1"/>
+        <FrameLayout
+            android:id="@+id/fragmentTopBotton1"
+            android:name="com.example.androidannotationstest.fragment.MyFragment_"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1" />
+    </LinearLayout>
+
+</RelativeLayout>

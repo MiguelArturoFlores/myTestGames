@@ -1,0 +1,21 @@
+CONECTAR GOOGLE PLAY SERVICES 
+
+-crear la app en developer console
+- obtener los sha1 de prueba, y de produccion
+- agregar la id al manifest y en ids.xml 
+- la main activity debe implementar implements
+		GoogleApiClient.ConnectionCallbacks,
+		GoogleApiClient.OnConnectionFailedListener 
+- agregar los metadata al manifest
+- agregar en el MainActivity initGooglePlayGames();
+- tener el paquete com.google.example.basegameutils (mirar en apps integradas)
+- agregar en el onActivity result GooglePlayGameSingleton.getInstance().onActivityResult(requestCode, resultCode, data);
+- agregar el metodo onStart y onStop, onConnected, onconnectionfailed , onConnectionSuspended
+- agregar variable mSignInClicked
+
+
+Analitycs
+
+- google analitycs admin  create new property
+- tracking app id
+- res/xml/app tracker colocar el id obtenido y en global tambien

@@ -1,0 +1,12 @@
+como agregar youtubers
+
+-copiar las imagenes en la carpeta assets 
+- abrir la bd, tabla player agregar los characters
+- cargarlos en el texturesingleton
+- poolObjectSingleton getPlayer agregar las contantes de cada jugador
+- GAME CONSTANTS AGREGAR LAS ONCTANTES
+- en google play crear el leaderboard de cada youtuber
+- POOL OBJECT SINGLETON METODO getLeaderboardNameagregar los leaderboard
+- colocar en MainDropActivity DBVERSION subirle un numero, para reemplazar la db 
+- sobreescribir la bd, pero esto es para produccion, se debe colocar una version de DB mayor 
+- a la hora de publicarlo, incrementar version en el manifest

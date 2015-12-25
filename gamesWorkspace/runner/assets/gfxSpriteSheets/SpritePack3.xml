@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="SpritePack3.png" type="bitmap" width="882" height="1981" pixelformat="RGBA_8888" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://www.codeandweb.com/texturepacker -->
+    <!-- $TexturePacker:SmartUpdate:829b6ba6a1a2ff2d18add177d5dbfef6:fe987203182ad611a8c4000550c57241:6abfb72151e08b7786d0cc01e6ae71f4$ -->
+    <textureregion id="0" src="virusADead.png" x="2" y="2" width="878" height="658" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="878" srcheight="658"/>
+    <textureregion id="1" src="virusBDead.png" x="2" y="662" width="878" height="658" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="878" srcheight="658"/>
+    <textureregion id="2" src="virusCDead.png" x="2" y="1322" width="875" height="657" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="875" srcheight="657"/>
+</texture>

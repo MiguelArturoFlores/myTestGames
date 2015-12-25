@@ -1,0 +1,2 @@
+- create id in file SpriteTypeConstants
+- LOAD IN THE FACTORY myfactory 

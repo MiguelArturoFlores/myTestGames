@@ -1,0 +1,33 @@
+45,roofBase1.png,techoBASE
+46,roofBegin1.png,techoBASE
+5,roofBase.png,techoBASE
+6,roofBegin.png,techoInicio  
+7,roofEnd.png,techoFin
+8,tunelFront.png,tunel
+10,hedgehog1.png,erizo
+11,hedgehog2.png,erizo2
+13,lakeBase.png,lago
+12,gel.png,gel
+14,smasherBone.png,smasher
+19,platform.png,plataforma Mobil,timeToMove/speed 150 Normal
+15,platform.png,plataformaBasica
+16,bone1.png,hueso1
+17,bone2.png,hueso2
+18,bone3.png,hueso3
+44,bone4.png,bone
+21,meteor1.png,meteoro,speed/isVertical
+22,meteor2.png,meteoro,speed/isVertical
+23,meteor3.png,meteoro,speed/isVertical
+24,wallBorder.png,player begin
+25,wallBorder.png,player end
+26,wall.png,wallCover
+27,cameraPoint.png,cameraPoint
+30,vulcano.png,vulcano,isReverse
+33,fillStar.png,star
+31,enemy3.png,triangulo
+20,enemy2.png,globulo blanco
+34,enemy1.png, enemy rombe
+35,enemy.png,enemyBurble
+38,adn2small.png,Checkpoint
+42,hedgehog3.png,erizo
+43,hedgehog4.png,erizo

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="Screens3.png" type="bitmap" width="1606" height="966" pixelformat="RGBA_8888" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://www.codeandweb.com/texturepacker -->
+    <!-- $TexturePacker:SmartUpdate:bbe7ca155e8cb2220b1592250c5ba7ba:99f98186905ca146f8b1a3636457d960:280d2534c33e010dca3329397d583067$ -->
+    <textureregion id="0" src="help2.png" x="2" y="2" width="800" height="480" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="800" srcheight="480"/>
+    <textureregion id="1" src="winAll.png" x="804" y="2" width="800" height="480" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="800" srcheight="480"/>
+    <textureregion id="2" src="winImage.png" x="2" y="484" width="800" height="480" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="800" srcheight="480"/>
+</texture>

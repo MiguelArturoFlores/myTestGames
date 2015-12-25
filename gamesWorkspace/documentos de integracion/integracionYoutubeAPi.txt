@@ -1,0 +1,40 @@
+
+Go to the Google Developers Console.
+
+Select a project, or create a new one.
+
+In the sidebar on the left, expand APIs & auth. Next, click APIs. Select the Enabled APIs link in the API section to see a list of all your enabled APIs. Make sure that the API is on the list of enabled APIs. If you have not enabled it, select the API from the list of APIs, then select the Enable API button for the API.
+
+In the sidebar on the left, select Credentials.
+
+Follow these steps if your application needs to submit authorized requests:
+
+Under OAuth, click Create new Client ID.
+
+Select Installed application and Android.
+
+In the Package name field, enter your Android app's package name.
+
+Paste the SHA1 fingerprint into the form where requested.
+
+Click Create Client ID.
+
+Otherwise, follow the steps below, which are for applications that only need to make unauthorized API calls:
+
+Under Public API access, click Create new Key.
+
+Select Android key.
+
+Paste the SHA1 fingerprint into the form where requested.
+
+After the fingerprint, type a semicolon and then enter your Android app's package name.
+
+Click Create.
+
+For more details, see the A
+
+HERE ARE MORE INFO ABOUT HOW TO GET THE TOKENS ON ANDROID
+https://developers.google.com/android/guides/http-auth
+https://developers.google.com/android-publisher/authorization
+
+http://stackoverflow.com/questions/7545254/android-and-facebook-share-intent

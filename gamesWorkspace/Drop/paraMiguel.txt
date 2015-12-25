@@ -1,0 +1,26 @@
+
+
+<input type="text" id="datetimepicker" />
+
+<script type="text/javascript">
+		$('#datetimepicker').datetimepicker().datetimepicker({
+			value : '#{visitMobileBean.timestr}',
+			inline : true,
+			step : 10,
+
+			minDate : '#{visitMobileBean.minDatePlanningStr}',
+			maxDate : '#{visitMobileBean.maxDatePlanningStr}',
+
+			onChangeDateTime : function(dp, $input) {
+
+				var inputA = document.getElementById('datetimepicker');
+				var inputB = document.getElementById('formPlanning:hiddenVal');
+				inputB.value = inputA.value;
+				dateSelect();
+
+			}
+		});
+	</script>
+
+
+puedes verlo en intelnova en visitMobilePlanning.xhtml

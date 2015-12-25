@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="levelScreenshot.png" type="bitmap" width="914" height="154" pixelformat="RGBA_8888" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://www.codeandweb.com/texturepacker -->
+    <!-- $TexturePacker:SmartUpdate:cadf33e41186d4807d8f9071c8a5b47b:7c3cb6f9b37e04952272466807e39196:a45817f0929b2561234b46f8dcd4410d$ -->
+    <textureregion id="0" src="level1.png" x="2" y="2" width="150" height="150" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="150" srcheight="150"/>
+    <textureregion id="1" src="level2.png" x="154" y="2" width="150" height="150" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="150" srcheight="150"/>
+    <textureregion id="2" src="level3.png" x="306" y="2" width="150" height="150" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="150" srcheight="150"/>
+    <textureregion id="3" src="level4.png" x="458" y="2" width="150" height="150" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="150" srcheight="150"/>
+    <textureregion id="4" src="level5.png" x="610" y="2" width="150" height="150" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="150" srcheight="150"/>
+    <textureregion id="5" src="level6.png" x="762" y="2" width="150" height="150" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="150" srcheight="150"/>
+</texture>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="Screens1.png" type="bitmap" width="440" height="221" pixelformat="RGBA_8888" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://www.codeandweb.com/texturepacker -->
+    <!-- $TexturePacker:SmartUpdate:881fb78b91fe41d62b5692f8f3e93861:37f45c92090fcbb36026497b7f44b38e:e9912672b783f7bed6ada25fac80b40e$ -->
+    <textureregion id="0" src="meteor1.png" x="2" y="2" width="217" height="216" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="217" srcheight="216"/>
+    <textureregion id="1" src="meteor2.png" x="221" y="2" width="217" height="217" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="217" srcheight="217"/>
+</texture>

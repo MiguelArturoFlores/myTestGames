@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="SpritePack2.png" type="bitmap" width="1980" height="1698" pixelformat="RGBA_8888" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://www.codeandweb.com/texturepacker -->
+    <!-- $TexturePacker:SmartUpdate:ae251b72faaf0234f4efde1e8dcd00bc:61c34e13ff04e0f0a875567f3fa1fd43:6bfb82aa54aa3b087622c77bc01e4dbc$ -->
+    <textureregion id="0" src="virusA.png" x="631" y="2" width="345" height="282" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="345" srcheight="282"/>
+    <textureregion id="1" src="virusAModel.png" x="2" y="744" width="987" height="740" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="987" srcheight="740"/>
+    <textureregion id="2" src="virusB.png" x="285" y="2" width="344" height="281" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="344" srcheight="281"/>
+    <textureregion id="3" src="virusBModel.png" x="978" y="2" width="987" height="740" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="987" srcheight="740"/>
+    <textureregion id="4" src="virusC.png" x="2" y="2" width="281" height="361" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="281" srcheight="361"/>
+    <textureregion id="5" src="virusCModel.png" x="991" y="744" width="987" height="952" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="987" srcheight="952"/>
+</texture>

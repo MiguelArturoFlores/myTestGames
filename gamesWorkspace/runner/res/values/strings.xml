@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Virus Adventure Lite</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="app_id">338054699737037</string>
+    <string name="unlockFacebook">Are you in troubles ?</string>
+    <string name="unlockFacebook2">Pass away this level Sharing</string>
+    <string name="thanksSharing">Thanks for Sharing!</string>
+    <string name="looseRetry">You Lose Retry!</string>
+    <string name="winLevel">You Win!</string>
+    <string name="noInternetConnection">You are not connected to Internet!</string>
+    <string name="shareVoluntaryFacebook"> This game is amazing! you are a pigeon who craps on people! Let\'s see how good you are crapping. </string>
+    <string name="getItFree"> Get it free on google play </string>
+    <string name="getItOnGet"> Click on "get" to download free </string>
+    <string name="shareToUnlockFacebook"> Crappy is crapping on everybody! Let\'s crap people with Crappy Pigeon! </string>
+    <string name="bonusLevel">THIS IS A BONUS LEVEL</string>
+    <string name="wantToQuit">Quit</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="success">Success</string>
+    <string name="successfully_posted_post">Successfully posted \'%1$s\'.\nPost ID: %2$s</string>
+    <string name="ok">OK</string>
+    <string name="cancelled">Cancelled</string>
+    <string name="permission_not_granted">Unable to perform selected action because permissions were not granted.</string>
+    <string name="error">Error</string>
+    <string name="photo_post">Photo Post</string>
+    <string name="com.facebook.sdk.ApplicationId">@string/app_id</string>
+
+    
+    <string name="SHARE">SHARE</string>
+	<string name="SHARE_TWITTER">Hey try this Virus Adventure Game its awsome!</string>
+	<string name="SHARE_SUCCESSFULL">MESSAGE SHARED!</string>
+	<string name="FACEBOOK_SHARE_URL">https://play.google.com/store/apps/details?id=com.mgl.runner</string>
+	<string name="LOGIN_WITH_TWITTER_TO_EARN">Login with Twitter to Unlock Player</string>
+	<string name="GAME_URL">https://play.google.com/store/apps/details?id=com.mgl.runner</string>
+	<string name="RATE_MESSAGE">Do you like Virus Adventure ?</string>
+    
+</resources>

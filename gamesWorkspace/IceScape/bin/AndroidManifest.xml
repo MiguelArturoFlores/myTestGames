@@ -1,0 +1,117 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="9" android:versionName="1.0" package="com.mgl.penguinsnow">
+
+    <uses-sdk android:minSdkVersion="11" android:targetSdkVersion="18"/>
+    
+    
+    <uses-feature android:glEsVersion="0x00020000" android:required="true"/>
+
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.READ_PHONE_STATE"/>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE"/>
+    <uses-permission android:name="android.permission.VIBRATE"/>
+
+ 
+    
+    <application android:allowBackup="true" android:hardwareAccelerated="true" android:icon="@drawable/ic_launcher" android:label="@string/app_name" android:name="android.support.multidex.MultiDexApplication" android:screenOrientation="portrait" android:theme="@style/AppTheme">
+        
+        <!-- ogury -->
+<!--         <meta-data -->
+<!--             android:name="presage_key" -->
+<!--             android:value="266513" /> -->
+
+<!--         <service android:name="io.presage.services.PresageServiceImp" /> -->
+        <!-- ogury -->
+        
+        <!-- google play api -->
+        
+        <meta-data android:name="com.google.android.gms.games.APP_ID" android:value="@string/app_id"/>
+        <meta-data android:name="com.google.android.gms.appstate.APP_ID" android:value="@string/app_id"/>
+        <meta-data android:name="com.google.android.gms.version" android:value="@integer/google_play_services_version"/>
+        <!-- google play api -->
+        
+        
+        <activity android:configChanges="orientation|keyboardHidden|screenSize" android:label="@string/app_name" android:name="com.mgl.drop.MainDropActivity" android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+
+            <!-- twitter4j -->
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW"/>
+
+                <category android:name="android.intent.category.DEFAULT"/>
+                <category android:name="android.intent.category.BROWSABLE"/>
+
+                <data android:host="t4jsample" android:scheme="oauth"/>
+            </intent-filter>
+            <!-- twitter4j -->
+        </activity>
+          <!-- twitter4j -->
+        <activity android:label="@string/app_name" android:name="com.mgl.twitter.WebViewActivity"/>
+        <activity android:label="@string/app_name" android:name="com.facebook.LoginActivity" android:theme="@android:style/Theme.Translucent.NoTitleBar"/>
+
+        <meta-data android:name="com.facebook.sdk.ApplicationId" android:value="@string/app_id"/>
+
+      
+
+        <activity android:excludeFromRecents="true" android:name="com.chartboost.sdk.CBImpressionActivity" android:screenOrientation="landscape" android:theme="@android:style/Theme.Translucent.NoTitleBar"/>
+       
+        <activity android:configChanges="orientation|keyboardHidden|screenSize" android:name="com.startapp.android.publish.list3d.List3DActivity" android:theme="@android:style/Theme.NoTitleBar.Fullscreen"/>
+        <activity android:configChanges="orientation|keyboardHidden|screenSize" android:name="com.startapp.android.publish.AppWallActivity" android:theme="@android:style/Theme.NoTitleBar.Fullscreen"/>
+
+        <meta-data android:name="com.google.android.gms.version" android:value="@integer/google_play_services_version"/>
+        <!-- admob -->
+        <activity android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize" android:name="com.google.android.gms.ads.AdActivity"/>
+
+        <!-- adcolony -->
+        <activity android:configChanges="keyboardHidden|orientation|screenSize" android:name="com.jirbo.adcolony.AdColonyOverlay" android:theme="@android:style/Theme.Translucent.NoTitleBar.Fullscreen"/>
+        <activity android:configChanges="keyboardHidden|orientation|screenSize" android:name="com.jirbo.adcolony.AdColonyFullscreen" android:theme="@android:style/Theme.Black.NoTitleBar.Fullscreen"/>
+        <activity android:configChanges="keyboardHidden|orientation|screenSize" android:name="com.jirbo.adcolony.AdColonyBrowser" android:theme="@android:style/Theme.Black.NoTitleBar.Fullscreen"/>
+        <!-- adcolony -->
+      
+       <!-- ogury -->
+<!--         <activity -->
+<!--             android:name="io.presage.activities.PresageActivity" -->
+<!--             android:label="@string/app_name" -->
+<!--             android:theme="@style/Presage.Theme.Transparent" > -->
+<!--             <intent-filter> -->
+<!--                 <action android:name="io.presage.intent.action.LAUNCH_WEBVIEW" /> -->
+
+<!--                 <category android:name="android.intent.category.DEFAULT" /> -->
+<!--             </intent-filter> -->
+<!--         </activity> -->
+
+<!--         <receiver android:name="io.presage.receivers.BootReceiver" > -->
+<!--             <intent-filter> -->
+<!--                 <action android:name="android.intent.action.BOOT_COMPLETED" /> -->
+<!--                 <action android:name="android.intent.action.DATE_CHANGED" /> -->
+<!--                 <action android:name="io.presage.receivers.BootReceiver.RESTART_SERVICE" /> -->
+<!--             </intent-filter> -->
+<!--         </receiver> -->
+        <!-- ogury -->
+      
+      
+        <meta-data android:name="io.fabric.ApiKey" android:value="258cd92cea2cdb0d61d85191ee53493602c3e16e"/>
+        <activity android:configChanges="orientation|screenSize" android:exported="false" android:name="com.digits.sdk.android.PhoneNumberActivity" android:taskAffinity="com.digits.sdk.android" android:windowSoftInputMode="stateVisible"/>
+        <activity android:configChanges="orientation|screenSize" android:exported="false" android:name="com.digits.sdk.android.ConfirmationCodeActivity" android:taskAffinity="com.digits.sdk.android" android:windowSoftInputMode="stateVisible"/>
+        <activity android:configChanges="orientation|screenSize" android:exported="false" android:name="com.digits.sdk.android.LoginCodeActivity" android:taskAffinity="com.digits.sdk.android" android:windowSoftInputMode="stateVisible"/>
+        <activity android:configChanges="orientation|screenSize" android:exported="false" android:name="com.digits.sdk.android.PinCodeActivity" android:taskAffinity="com.digits.sdk.android" android:windowSoftInputMode="stateVisible"/>
+        <activity android:configChanges="orientation|screenSize" android:exported="false" android:name="com.digits.sdk.android.FailureActivity" android:taskAffinity="com.digits.sdk.android"/>
+        <activity android:configChanges="orientation|screenSize" android:exported="false" android:name="com.digits.sdk.android.ContactsActivity"/>
+        <activity android:configChanges="orientation|screenSize" android:exported="false" android:name="com.digits.sdk.android.PhoneNumberActionBarActivity" android:taskAffinity="com.digits.sdk.android" android:windowSoftInputMode="stateVisible"/>
+        <activity android:configChanges="orientation|screenSize" android:exported="false" android:name="com.digits.sdk.android.ConfirmationCodeActionBarActivity" android:taskAffinity="com.digits.sdk.android" android:windowSoftInputMode="stateVisible"/>
+        <activity android:configChanges="orientation|screenSize" android:exported="false" android:name="com.digits.sdk.android.LoginCodeActionBarActivity" android:taskAffinity="com.digits.sdk.android" android:windowSoftInputMode="stateVisible"/>
+        <activity android:configChanges="orientation|screenSize" android:exported="false" android:name="com.digits.sdk.android.FailureActionBarActivity" android:taskAffinity="com.digits.sdk.android"/>
+        <activity android:configChanges="orientation|screenSize" android:exported="false" android:name="com.digits.sdk.android.ContactsActionBarActivity"/>
+        <activity android:configChanges="orientation|screenSize" android:exported="false" android:name="com.digits.sdk.android.PinCodeActionBarActivity" android:taskAffinity="com.digits.sdk.android" android:windowSoftInputMode="stateVisible"/>
+
+        <service android:enabled="true" android:exported="false" android:name="com.digits.sdk.android.ContactsUploadService"/>
+        <activity android:configChanges="orientation|screenSize" android:excludeFromRecents="true" android:exported="false" android:name="com.twitter.sdk.android.core.identity.OAuthActivity"/>
+        <activity android:configChanges="orientation|screenSize" android:excludeFromRecents="true" android:exported="false" android:icon="@drawable/tw__transparent" android:label="@string/kit_name" android:name="com.twitter.sdk.android.core.identity.ShareEmailActivity"/>
+    </application>
+
+</manifest>

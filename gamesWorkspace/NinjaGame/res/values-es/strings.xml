@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Ninja</string>
+    <string name="action_settings">Opciones</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="app_id">951326333469</string>
+    <string name="unlockFacebook">estas en problemas?</string>
+    <string name="unlockFacebook2">Pasa este nivel compartiendo</string>
+    <string name="noInternetConnection">No tienes conexion a Internet!</string>
+    <string name="shareVoluntaryFacebook"> This game is amazing! you are a pigeon who craps on people! Let\'s see how good you are crapping. </string>
+    <string name="getItFree"> Descargalo gratos en google play </string>
+    <string name="getItOnGet"> Click on "get" to download free </string>
+    <string name="shareToUnlockFacebook"> Crappy is crapping on everybody! Let\'s crap people with Crappy Pigeon! </string>
+    <string name="bonusLevel">THIS IS A BONUS LEVEL</string>
+    <string name="wantToQuit">Salir</string>
+    <string name="yes">Si</string>
+    <string name="no">No</string>
+    <string name="success">Exitoso</string>
+    <string name="successfully_posted_post">Successfully posted \'%1$s\'.\nPost ID: %2$s</string>
+    <string name="ok">OK</string>
+    <string name="cancelled">Cancelado</string>
+    <string name="permission_not_granted">No se puede ejecutar la accion seleccionada, por que no tienes permisos.</string>
+    <string name="error">Error</string>
+    <string name="photo_post">Foto Post</string>
+    <string name="com.facebook.sdk.ApplicationId">@string/app_id</string>
+
+    <!-- google play games services -->
+
+    <string name="gamehelper_license_failed">gamehelper_license_failed</string>
+    <string name="gamehelper_sign_in_failed">gamehelper_sign_in_failed</string>
+    <string name="gamehelper_unknown_error">gamehelper_unknown_error</string>
+    <string name="gamehelper_app_misconfigured">gamehelper_app_misconfigured</string>
+    <string name="sign_in_failed">sign_in_failed</string>
+    <string name="app_misconfigured">app_misconfigured</string>
+    <string name="license_failed">license_failed</string>
+    <string name="signin_other_error">signin_other_error</string>
+    <string name="signin_failure">signin_failure</string>
+
+    
+    <!-- game strings -->
+    <string name="TAP_TO_CONTINUE">Toca para continuar</string>
+    <string name="SHARE_FACEBOOK_TO_EARN">Comparte en Facebook para ganar 100 diamantes GRATIS!!!</string>
+    <string name="SHARE_WHATSAPP_TO_EARN">Comparte en Whatsapp para ganar 50 diamantes GRATIS!!!</string>
+	<string name="LOGIN_WITH_TWITTER_TO_EARN">Conectate con Twitter y gana 5000 diamantes GRATIS!!!</string>
+	<string name="thanksSharing">Gracias por compartir!!!</string>
+    <string name="looseRetry">Fallaste intentalo de nuevo!</string>
+    <string name="winLevel">Felicidades Ganaste el Nivel!!!</string>
+    <string name="EARN_FREE_MONEY">Has ganado diamates GRATIS!!!</string>
+    <string name="UNLOCK_LEVEL_MESSAGE">Necesitas mas monedas para desbloquear!</string>
+    <string name="UNLOCK_LEVEL">Para Desbloquear</string>
+    <string name="FACEBOOK_SHARE_URL">https://play.google.com/store/apps/details?id=com.mgl.youtuberunner</string>
+	<string name="WHATSAPP_SHARE_MESSAGE">Estoy jugando al Youtuber Dash! hay un monton de youtubers, dime si te gusta? https://play.google.com/store/apps/details?id=com.mgl.youtuberunner</string>
+	<string name="EARN_MONEY">Has ganado Diamantes: </string>
+	<string name="UNLOCK_WITH_TWITTER">Para desbloquear el nivel logeate con Twitter </string>
+	<string name="RATE_MESSAGE">Te gusta Youtuber Dash ? </string>
+	<string name="SHARE_AND_WIN">Comparte y gana </string>
+	<string name="FREE_MONEY">monedas GRATIS!!! </string>
+	<string name="LOGIN_TWITTER_AND_WIN">Conectate con Twitter y gana</string>
+	
+	<string name="IHAVE_WIN">He ganado</string>
+	<string name="POINTS_PLAYING">puntos jugando con</string>
+	<string name="TO_YOUTUBER_DASH">al Youtuber Dash</string>
+	<string name="YOUTUBER_DASH_URL">https://play.google.com/store/apps/details?id=com.mgl.youtuberunner</string>
+	
+	<string name="MORE_LEVEL_MESSAGE">Pronto agregaremos mas niveles!</string>
+	<string name="BEGIN_GAME_HELP">Toca la pantalla para subir, suelta para bajar</string>
+	
+	
+	<string name="DIALOG1">Hola Ninja esta vez sere tu maestro, en este tutorial de prueba de mecanicas: 1 muevete tocando el mapa, 2 no dejes que el enemigo te vea o fracasaras, 3 para deshabilitar a un enemigo tocalo, prueba con el que hay aca! 4, despues de hacerlo dirigite a la puerta y pasa a traves de ella </string>
+		<string name="DIALOG2">Bueno, ahora debes saber que no todo el tiempo podras deshabilitar a tus enemigos, hay misiones en las que debes pasar sin danar a nadie, pasa sin ser visto </string>
+		<string name="DIALOG3">Siguiente leccion, debes silbar, para ello usa el boton con la nota musical, esto atraera al enemigo al lugar del silvido, mientras tu pasas sin ser detectado, NO GOLPEES A NADIE</string>
+		<string name="DIALOG4">Bien hecho, ahora debes aprende a abrir puertas, las puertas se abren de varias manera, 1) parandote en frente de ellas 2) algunas necesitan una llave que solo funciona para una puerta</string>
+		<string name="DIALOG5">Finalmente quedan las palancas, estos abren y cierran puertas, pueden abrir una sola puerta o pueden abrir o cerrar varias, prueba con esas palancas de alli, y luego trata de escapar con todo lo que has aprendido! llega a la puerta dorada</string>
+		<string name="DIALOG6">OHH, un acertijo halla la combinacion correcta,  juega con las palancas hasta poder resolverlo! </string>
+		<string name="DIALOG7">Espero que hayas hecho una buena combinacion de palancas, sino la puerta estara cerrada </string>
+		<string name="DIALOG8">Hasta aca es el tutorial, espero que hayas aprendido y te haya gustado, por favor comenta a los desarrolladores que te ha gustado, lo que no te ha gustado y lo que creas que se puede mejorar! esto es muy importante para nosotros y para completar el entrenamiento!</string>
+		
+	
+</resources>

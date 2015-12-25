@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="ObjectPack.png" type="bitmap" width="1994" height="1155" pixelformat="RGBA_8888" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://www.codeandweb.com/texturepacker -->
+    <!-- $TexturePacker:SmartUpdate:f479fb42d1205997e9cd1fac5b17ffff:276819b5740f9f3742205c9ab884935d:dd33615e1df2e0678e2a3eb880e6a675$ -->
+    <textureregion id="0" src="bone1.png" x="2" y="2" width="220" height="47" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="220" srcheight="47"/>
+    <textureregion id="1" src="bone2.png" x="224" y="2" width="279" height="77" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="279" srcheight="77"/>
+    <textureregion id="2" src="bone4.png" x="610" y="357" width="95" height="300" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="95" srcheight="300"/>
+    <textureregion id="3" src="gel.png" x="921" y="2" width="449" height="136" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="449" srcheight="136"/>
+    <textureregion id="4" src="hedgehog1.png" x="599" y="2" width="92" height="92" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="92" srcheight="92"/>
+    <textureregion id="5" src="hedgehog2.png" x="505" y="2" width="92" height="92" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="92" srcheight="92"/>
+    <textureregion id="6" src="hedgehog3.png" x="1764" y="156" width="200" height="199" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="200" srcheight="199"/>
+    <textureregion id="7" src="hedgehog4.png" x="1563" y="156" width="199" height="199" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="199" srcheight="199"/>
+    <textureregion id="8" src="lakeBase.png" x="774" y="156" width="787" height="197" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="787" srcheight="197"/>
+    <textureregion id="9" src="meteor3.png" x="221" y="357" width="217" height="217" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="217" srcheight="217"/>
+    <textureregion id="10" src="meteorOffFocus.png" x="2" y="357" width="217" height="216" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="217" srcheight="216"/>
+    <textureregion id="11" src="platform.png" x="1372" y="2" width="274" height="152" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="274" srcheight="152"/>
+    <textureregion id="12" src="roofBase1.png" x="214" y="673" width="835" height="333" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="835" srcheight="333"/>
+    <textureregion id="13" src="roofBegin1.png" x="440" y="357" width="168" height="285" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="168" srcheight="285"/>
+    <textureregion id="14" src="title.png" x="1392" y="357" width="600" height="314" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="600" srcheight="314"/>
+    <textureregion id="15" src="tunelFront.png" x="707" y="357" width="683" height="303" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="683" srcheight="303"/>
+    <textureregion id="16" src="tunelbase.png" x="2" y="156" width="770" height="189" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="770" srcheight="189"/>
+    <textureregion id="17" src="turboBack.png" x="693" y="2" width="104" height="111" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="104" srcheight="111"/>
+    <textureregion id="18" src="vulcano.png" x="799" y="2" width="120" height="111" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="120" srcheight="111"/>
+    <textureregion id="19" src="wall.png" x="1051" y="673" width="404" height="480" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="404" srcheight="480"/>
+    <textureregion id="20" src="wallBorder.png" x="2" y="673" width="210" height="319" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="210" srcheight="319"/>
+</texture>

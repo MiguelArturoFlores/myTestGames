@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="SpritePack1.png" type="bitmap" width="1831" height="2001" pixelformat="RGBA_8888" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://www.codeandweb.com/texturepacker -->
+    <!-- $TexturePacker:SmartUpdate:d8032d5e32d16af7bc69e59ed1cfd9c1:7dd14eca7bbbc193bcd6dc86def22792:bc51f02466c1453e1ac9d254599c898a$ -->
+    <textureregion id="0" src="adn2Animated.png" x="902" y="247" width="600" height="300" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="600" srcheight="300"/>
+    <textureregion id="1" src="bubbleStar.png" x="2" y="549" width="600" height="300" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="600" srcheight="300"/>
+    <textureregion id="2" src="burble.png" x="1041" y="2" width="140" height="139" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="140" srcheight="139"/>
+    <textureregion id="3" src="checkPoint.png" x="604" y="549" width="600" height="300" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="600" srcheight="300"/>
+    <textureregion id="4" src="enemy.png" x="1455" y="2" width="374" height="243" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="374" srcheight="243"/>
+    <textureregion id="5" src="enemy1.png" x="1206" y="549" width="108" height="329" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="108" srcheight="329"/>
+    <textureregion id="6" src="enemy2.png" x="1468" y="549" width="150" height="448" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="150" srcheight="448"/>
+    <textureregion id="7" src="enemy3.png" x="1316" y="549" width="150" height="448" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="150" srcheight="448"/>
+    <textureregion id="8" src="ice.png" x="1183" y="2" width="270" height="188" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="270" srcheight="188"/>
+    <textureregion id="9" src="intro1.png" x="281" y="247" width="272" height="277" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="272" srcheight="277"/>
+    <textureregion id="10" src="intro2.png" x="2" y="999" width="259" height="480" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="259" srcheight="480"/>
+    <textureregion id="11" src="intro3.png" x="263" y="999" width="361" height="480" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="361" srcheight="480"/>
+    <textureregion id="12" src="intro4.png" x="2" y="247" width="277" height="277" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="277" srcheight="277"/>
+    <textureregion id="13" src="powerIceCircleAnimated.png" x="626" y="999" width="1000" height="1000" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="1000" srcheight="1000"/>
+    <textureregion id="14" src="powerShot.png" x="2" y="2" width="460" height="112" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="460" srcheight="112"/>
+    <textureregion id="15" src="shot.png" x="464" y="2" width="575" height="118" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="575" srcheight="118"/>
+    <textureregion id="16" src="virusA.png" x="555" y="247" width="345" height="282" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="345" srcheight="282"/>
+</texture>

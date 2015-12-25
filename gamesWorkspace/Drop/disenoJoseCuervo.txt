@@ -1,0 +1,22 @@
+diseno
+
+- fondo definitivo
+- mojon gigante(montania de mierda)
+- infografia de como funciona 
+	a) jugabilidad basica como cagar , barra de cagadas, y cagar personajes, tocar el boton play
+	b) cagadas tipo bomba
+	c) cagadas tipo split
+	d) cagadas misil
+	e) el nino lanza piedras
+	f) tal vez las viejas con el paraguas
+	
+- cagada basica despedazandose
+- corredor cagado
+- botones de seleccion de niveles diferentes
+- analizar los colores de la seleccion de niveles
+- correcciones 
+- platillo
+- misil 360@
+- boton de ranking
+- (sonidos) botones, aleteo paloma, etc
+(CORRECCIONES)

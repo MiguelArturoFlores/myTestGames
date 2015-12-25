@@ -1,0 +1,7 @@
+package com.mgl.drop.object.type;
+
+public enum ObjectType {
+
+	PRINCIPAL_BACKGOUND, BUTTON_PLAY, SPRITE_LEVEL_SELECT, LEVEL_SELECT_BACKGROUND, EXAMPLE_BACKGROUND;
+
+}

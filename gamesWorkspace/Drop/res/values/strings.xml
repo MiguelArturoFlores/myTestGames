@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name" >Crappy Pigeon</string>
+    <string name="action_settings" >Settings</string>
+    <string name="hello_world" >Hello world!</string>
+    
+    <string name="app_id">833987759952680</string>
+    
+    <string name="unlockFacebook">Are you in troubles ?</string>
+    <string name="unlockFacebook2">Pass away this level Sharing</string>
+    <string name="thanksSharing">Thanks for Sharing!</string>
+    
+    <string name="looseRetry">You Loose Retry!</string>
+    <string name="winLevel">You Win!</string>
+    <string name="noInternetConnection">You are not connected to Internet!</string>
+    
+    <string name="shareVoluntaryFacebook"> This game is amazing! you are a pigeon who craps on people! Let\'s see how good you are crapping. </string>
+    <string name="getItFree"> Get it free on google play </string>
+    <string name="getItOnGet"> Click on "get" to download free </string>
+    <string name="shareToUnlockFacebook"> Crappy is crapping on everybody! Let\'s crap people with Crappy Pigeon! </string>
+    
+    <string name="bonusLevel">THIS IS A BONUS LEVEL</string>
+    
+    
+
+    
+
+</resources>

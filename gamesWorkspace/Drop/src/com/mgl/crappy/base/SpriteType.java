@@ -1,0 +1,7 @@
+package com.mgl.crappy.base;
+
+public enum SpriteType {
+
+	TERRAIN,PLAYER,OBJETIVE,POOP,DECORATIVE, POOP_BAR, INVISIBLE, ROCK
+	
+}
